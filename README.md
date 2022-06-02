@@ -1,6 +1,6 @@
 # BSQ
 Algorithm that finds the biggest square on a map given.</br>
-I realized this program as part of a school project at Epitech Paris.
+I realized this program as part of a school project at Epitech Technology.
 
 ## How to test it?🤔
 - After downloading the repository from Github, simply go in from your
