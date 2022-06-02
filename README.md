@@ -12,7 +12,7 @@ command "./bsq [path of map]".
 
 # Warning
 For biggest maps, it is recommended to store the result in a file and
-then view it for a problem of execution time and display.
+then view it for a problem of execution time and display.<br/>
 To do so, use the following command:
-"./bsq [path of map] > [file name that will be created]".
+"./bsq [path of map] > [file name that will be created]".<br/>
 You can now view the file in a classic text editor.
