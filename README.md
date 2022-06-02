@@ -2,8 +2,8 @@
 Algorithm that finds the biggest square on a map given.
 
 # How to test it?
-- After downloading the program, simply go to its folder from your
-terminal and compile it with the "make" command.
+- After downloading the repository from Github, simply go in from your
+terminal and compile the program with the "make" command.
 
 - You can now test the program from the terminal with the
 command "./bsq [path of map]".
