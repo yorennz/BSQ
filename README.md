@@ -5,10 +5,10 @@ Algorithm that finds the biggest square on a map given.
 - After downloading the program, simply go to its folder from your
 terminal and compile it with the "make" command.
 
-- You can now test the program always from the terminal with the
+- You can now test the program from the terminal with the
 command "./bsq [path of map]".
 
-Example: "./bsq maps-intermediate/mouli_maps/intermediate_map_100_100"
+  Example: "./bsq maps-intermediate/mouli_maps/intermediate_map_100_100"
 
 # Warning
 For biggest maps, it is recommended to store the result in a file and
