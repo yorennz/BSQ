@@ -1,5 +1,5 @@
 # Epitech-BSQ
-Algorithm that finds the biggest square on a map givend.</br>
+Algorithm that finds the biggest square on a map given.</br>
 I realized this program as part of a school project at Epitech Paris.
 
 ## How to test it?🤔
