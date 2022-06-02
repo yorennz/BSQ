@@ -1,4 +1,4 @@
-# Epitech-BSQ
+# BSQ
 Algorithm that finds the biggest square on a map given.</br>
 I realized this program as part of a school project at Epitech Paris.
 
@@ -19,8 +19,6 @@ To do so, use the following command:
 You can now view the file in a classic text editor.
 
 # You can find me here
-<p>
-    <a href="https://www.linkedin.com/in/yorennz-zelina/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</p>
+<a href="https://www.linkedin.com/in/yorennz-zelina/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
